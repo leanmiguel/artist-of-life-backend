@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 django = "~=3.1.0"
-environs = {extras = ["django"], version = "*"}
+environs = {extras = ["django"], version = "9.3.0"}
 
 [dev-packages]
 
